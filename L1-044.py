@@ -2,7 +2,6 @@ x = input()
 x = int(x)
 s = input()
 float = 0
-
 while s != "End":
     if float == x:
         print(s)
