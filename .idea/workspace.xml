@@ -36,6 +36,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3HO9QiHC7vOSJ8WmqhOnJimYKx6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +47,7 @@
   "keyToString": {
     "Python.L1-034.executor": "Run",
     "Python.L1-038.executor": "Run",
+    "Python.L1-039.executor": "Run",
     "Python.L1-044.executor": "Run",
     "Python.L1-047.executor": "Run",
     "Python.L1-049.executor": "Run",
@@ -94,7 +98,7 @@
       <workItem from="1786157360215" duration="2335000" />
       <workItem from="1786169701426" duration="2688000" />
       <workItem from="1786177256822" duration="1261000" />
-      <workItem from="1786327581298" duration="2977000" />
+      <workItem from="1786327581298" duration="4607000" />
     </task>
     <task id="LOCAL-00001" summary="L1-040 最佳情侣身高差">
       <option name="closed" value="true" />
@@ -168,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786330314988</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="L1-034 点赞">
+      <option name="closed" value="true" />
+      <created>1786332387592</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1786332387592</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,5 +201,6 @@
     <SUITE FILE_PATH="coverage/PTA$L1_044.coverage" NAME="L1-044 覆盖结果" MODIFIED="1786074356575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_034.coverage" NAME="L1-034 覆盖结果" MODIFIED="1786330266927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_047.coverage" NAME="L1-047 覆盖结果" MODIFIED="1786075492522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_039.coverage" NAME="L1-039 覆盖结果" MODIFIED="1786333472033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
