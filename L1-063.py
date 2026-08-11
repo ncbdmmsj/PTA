@@ -2,6 +2,7 @@ x = int(input())
 while x:
     x -= 1
     sex, hight, weight = map(int,input().split())
+
     if sex == 0:
         if hight >129:
             print("ni li hai!",end="")
