@@ -1,0 +1,5 @@
+x, y = map(int, input().split())
+print(f"{x+y-16}")
+print(f"{x+y-3}")
+print(f"{x+y-1}")
+print(f"{x+y}")
