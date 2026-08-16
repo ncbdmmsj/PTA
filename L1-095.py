@@ -49,3 +49,27 @@ elif flag1 and home_n1 != n1 and n - home_n1 != n0:
     print(n-home_n1, home_n1)
 else:
     print("No Solution")
+
+
+
+    # 暴力
+# n0, n1, n = map(int, input().split())
+#
+# Min = float('inf')
+# home_n0 = 1
+# flag = False
+#
+# i = 1
+# while i < n and i < n0 and (n - i) < n1:
+#     if n0 % i == 0 and n1 % (n - i) == 0:
+#         cha = abs(n0 // i - n1 // (n - i))
+#         if Min > cha:
+#             Min = cha
+#             home_n0 = i
+#             flag = True
+#     i += 1
+#
+# if flag:
+#     print(home_n0, n - home_n0)
+# else:
+#     print("No Solution")
