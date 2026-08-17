@@ -63,6 +63,8 @@
     "Python.L1-075.executor": "Run",
     "Python.L1-076.executor": "Run",
     "Python.L1-077.executor": "Run",
+    "Python.L1-079.executor": "Run",
+    "Python.L1-080.executor": "Run",
     "Python.L1-093.executor": "Run",
     "Python.L1-095.executor": "Run",
     "Python.L1-096.executor": "Run",
@@ -122,7 +124,7 @@
       <workItem from="1786621996390" duration="9713000" />
       <workItem from="1786674025708" duration="6591000" />
       <workItem from="1786718570258" duration="22000" />
-      <workItem from="1786783643913" duration="14537000" />
+      <workItem from="1786783643913" duration="15978000" />
     </task>
     <task id="LOCAL-00001" summary="L1-040 最佳情侣身高差">
       <option name="closed" value="true" />
@@ -404,15 +406,37 @@
       <option name="project" value="LOCAL" />
       <updated>1786892797191</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="L1-072 刮刮彩票">
+      <option name="closed" value="true" />
+      <created>1786943406690</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1786943406690</updated>
+    </task>
+    <task id="LOCAL-00037" summary="L1-072 刮刮彩票">
+      <option name="closed" value="true" />
+      <created>1786979168437</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1786979168437</updated>
+    </task>
+    <task id="LOCAL-00038" summary="L1-079 天梯赛的善良">
+      <option name="closed" value="true" />
+      <created>1786979658536</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1786979658536</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="配置" />
-    <MESSAGE value="L1-044 稳赢" />
     <MESSAGE value="L1-047 装睡" />
     <MESSAGE value="L1-049 天梯赛座位分配" />
     <MESSAGE value="L1-034 点赞" />
@@ -436,7 +460,9 @@
     <MESSAGE value="L1-093 猜帽子游戏" />
     <MESSAGE value="L1-096 谁管谁叫爹" />
     <MESSAGE value="L1-095 分寝室" />
-    <option name="LAST_COMMIT_MESSAGE" value="L1-095 分寝室" />
+    <MESSAGE value="L1-072 刮刮彩票" />
+    <MESSAGE value="L1-079 天梯赛的善良" />
+    <option name="LAST_COMMIT_MESSAGE" value="L1-079 天梯赛的善良" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PTA$L1_038.coverage" NAME="L1-038 覆盖结果" MODIFIED="1785840948606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -445,13 +471,15 @@
     <SUITE FILE_PATH="coverage/PTA$L1_070.coverage" NAME="L1-070 覆盖结果" MODIFIED="1786605107440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_096.coverage" NAME="L1-096 覆盖结果" MODIFIED="1786634069360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_055.coverage" NAME="L1-055 覆盖结果" MODIFIED="1786436720639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_079.coverage" NAME="L1-079 覆盖结果" MODIFIED="1786979611899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_071.coverage" NAME="L1-071 覆盖结果" MODIFIED="1786606287761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_034.coverage" NAME="L1-034 覆盖结果" MODIFIED="1786330266927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_047.coverage" NAME="L1-047 覆盖结果" MODIFIED="1786075492522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_074.coverage" NAME="L1-074 覆盖结果" MODIFIED="1786606573030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_093.coverage" NAME="L1-093 覆盖结果" MODIFIED="1786626172800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_069.coverage" NAME="L1-069 覆盖结果" MODIFIED="1786603325496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PTA$L1_072.coverage" NAME="L1-072 覆盖结果" MODIFIED="1786940511747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_080.coverage" NAME="L1-080 覆盖结果" MODIFIED="1786979955431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_072.coverage" NAME="L1-072 覆盖结果" MODIFIED="1786943421433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_049.coverage" NAME="L1-049 覆盖结果" MODIFIED="1786169796125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_075.coverage" NAME="L1-075 覆盖结果" MODIFIED="1786622619522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_068.coverage" NAME="L1-068 覆盖结果" MODIFIED="1786514644824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
