@@ -28,7 +28,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ncbdmmsj/PTA.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:ncbdmmsj/PTA.git&quot;,
     &quot;accountId&quot;: &quot;00b97d8f-8d7c-44c3-8f11-34a7d5b690c2&quot;
   }
 }</component>
@@ -51,6 +51,21 @@
     "Python.L1-044.executor": "Run",
     "Python.L1-047.executor": "Run",
     "Python.L1-049.executor": "Run",
+    "Python.L1-055.executor": "Run",
+    "Python.L1-064.executor": "Run",
+    "Python.L1-068.executor": "Run",
+    "Python.L1-069.executor": "Run",
+    "Python.L1-070.executor": "Run",
+    "Python.L1-071.executor": "Run",
+    "Python.L1-072.executor": "Run",
+    "Python.L1-073.executor": "Run",
+    "Python.L1-074.executor": "Run",
+    "Python.L1-075.executor": "Run",
+    "Python.L1-076.executor": "Run",
+    "Python.L1-077.executor": "Run",
+    "Python.L1-093.executor": "Run",
+    "Python.L1-095.executor": "Run",
+    "Python.L1-096.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -98,7 +113,16 @@
       <workItem from="1786157360215" duration="2335000" />
       <workItem from="1786169701426" duration="2688000" />
       <workItem from="1786177256822" duration="1261000" />
-      <workItem from="1786327581298" duration="4607000" />
+      <workItem from="1786327581298" duration="7112000" />
+      <workItem from="1786415191950" duration="2490000" />
+      <workItem from="1786435932777" duration="9035000" />
+      <workItem from="1786514329197" duration="76000" />
+      <workItem from="1786514419380" duration="2617000" />
+      <workItem from="1786601728185" duration="5223000" />
+      <workItem from="1786621996390" duration="9713000" />
+      <workItem from="1786674025708" duration="6591000" />
+      <workItem from="1786718570258" duration="22000" />
+      <workItem from="1786783643913" duration="14537000" />
     </task>
     <task id="LOCAL-00001" summary="L1-040 最佳情侣身高差">
       <option name="closed" value="true" />
@@ -180,27 +204,261 @@
       <option name="project" value="LOCAL" />
       <updated>1786332387592</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="L1-039 古风排版">
+      <option name="closed" value="true" />
+      <created>1786333573958</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1786333573958</updated>
+    </task>
+    <task id="LOCAL-00012" summary="L1-055 谁是赢家">
+      <option name="closed" value="true" />
+      <created>1786415809406</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1786415809406</updated>
+    </task>
+    <task id="LOCAL-00013" summary="L1-063 吃鱼还是吃肉">
+      <option name="closed" value="true" />
+      <created>1786438171547</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1786438171547</updated>
+    </task>
+    <task id="LOCAL-00014" summary="L1-064 估值一亿的AI核心代码">
+      <option name="closed" value="true" />
+      <created>1786502686489</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1786502686489</updated>
+    </task>
+    <task id="LOCAL-00015" summary="L1-064 估值一亿的AI核心代码">
+      <option name="closed" value="true" />
+      <created>1786502839959</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1786502839959</updated>
+    </task>
+    <task id="LOCAL-00016" summary="L1-068 调和平均">
+      <option name="closed" value="true" />
+      <created>1786510270828</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1786510270828</updated>
+    </task>
+    <task id="LOCAL-00017" summary="L1-068 调和平均">
+      <option name="closed" value="true" />
+      <created>1786514683563</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1786514683563</updated>
+    </task>
+    <task id="LOCAL-00018" summary="L1-069 胎压监测">
+      <option name="closed" value="true" />
+      <created>1786603517875</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1786603517875</updated>
+    </task>
+    <task id="LOCAL-00019" summary="L1-070 吃火锅">
+      <option name="closed" value="true" />
+      <created>1786605234623</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1786605234623</updated>
+    </task>
+    <task id="LOCAL-00020" summary="L1-070 吃火锅">
+      <option name="closed" value="true" />
+      <created>1786605266395</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1786605266395</updated>
+    </task>
+    <task id="LOCAL-00021" summary="L1-071 前世档案">
+      <option name="closed" value="true" />
+      <created>1786606321145</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1786606321145</updated>
+    </task>
+    <task id="LOCAL-00022" summary="L1-071 前世档案">
+      <option name="closed" value="true" />
+      <created>1786606335248</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1786606335248</updated>
+    </task>
+    <task id="LOCAL-00023" summary="L1-073 人与神">
+      <option name="closed" value="true" />
+      <created>1786606492194</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1786606492194</updated>
+    </task>
+    <task id="LOCAL-00024" summary="L1-074 两小时学完C语言">
+      <option name="closed" value="true" />
+      <created>1786606602265</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1786606602265</updated>
+    </task>
+    <task id="LOCAL-00025" summary="L1-075 强迫症">
+      <option name="closed" value="true" />
+      <created>1786622697599</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1786622697599</updated>
+    </task>
+    <task id="LOCAL-00026" summary="L1-076 降价提醒机器人">
+      <option name="closed" value="true" />
+      <created>1786624629629</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1786624629629</updated>
+    </task>
+    <task id="LOCAL-00027" summary="L1-077 大笨钟的心情">
+      <option name="closed" value="true" />
+      <created>1786625192406</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1786625192406</updated>
+    </task>
+    <task id="LOCAL-00028" summary="L1-081 今天我要赢">
+      <option name="closed" value="true" />
+      <created>1786625885860</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1786625885860</updated>
+    </task>
+    <task id="LOCAL-00029" summary="L1-090 什么是机器学习">
+      <option name="closed" value="true" />
+      <created>1786626240151</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1786626240151</updated>
+    </task>
+    <task id="LOCAL-00030" summary="L1-091 程序员买包子">
+      <option name="closed" value="true" />
+      <created>1786626657919</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1786626657919</updated>
+    </task>
+    <task id="LOCAL-00031" summary="L1-092 进化论">
+      <option name="closed" value="true" />
+      <created>1786626906045</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1786626906045</updated>
+    </task>
+    <task id="LOCAL-00032" summary="L1-093 猜帽子游戏">
+      <option name="closed" value="true" />
+      <created>1786630065936</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1786630065936</updated>
+    </task>
+    <task id="LOCAL-00033" summary="L1-096 谁管谁叫爹">
+      <option name="closed" value="true" />
+      <created>1786634114132</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1786634114132</updated>
+    </task>
+    <task id="LOCAL-00034" summary="L1-095 分寝室">
+      <option name="closed" value="true" />
+      <created>1786788500920</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1786788500920</updated>
+    </task>
+    <task id="LOCAL-00035" summary="L1-095 分寝室">
+      <option name="closed" value="true" />
+      <created>1786892797191</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1786892797191</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="L1-040 最佳情侣身高差" />
     <MESSAGE value="配置" />
     <MESSAGE value="L1-044 稳赢" />
     <MESSAGE value="L1-047 装睡" />
     <MESSAGE value="L1-049 天梯赛座位分配" />
     <MESSAGE value="L1-034 点赞" />
-    <option name="LAST_COMMIT_MESSAGE" value="L1-034 点赞" />
+    <MESSAGE value="L1-039 古风排版" />
+    <MESSAGE value="L1-055 谁是赢家" />
+    <MESSAGE value="L1-063 吃鱼还是吃肉" />
+    <MESSAGE value="L1-064 估值一亿的AI核心代码" />
+    <MESSAGE value="L1-068 调和平均" />
+    <MESSAGE value="L1-069 胎压监测" />
+    <MESSAGE value="L1-070 吃火锅" />
+    <MESSAGE value="L1-071 前世档案" />
+    <MESSAGE value="L1-073 人与神" />
+    <MESSAGE value="L1-074 两小时学完C语言" />
+    <MESSAGE value="L1-075 强迫症" />
+    <MESSAGE value="L1-076 降价提醒机器人" />
+    <MESSAGE value="L1-077 大笨钟的心情" />
+    <MESSAGE value="L1-081 今天我要赢" />
+    <MESSAGE value="L1-090 什么是机器学习" />
+    <MESSAGE value="L1-091 程序员买包子" />
+    <MESSAGE value="L1-092 进化论" />
+    <MESSAGE value="L1-093 猜帽子游戏" />
+    <MESSAGE value="L1-096 谁管谁叫爹" />
+    <MESSAGE value="L1-095 分寝室" />
+    <option name="LAST_COMMIT_MESSAGE" value="L1-095 分寝室" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PTA$L1_038.coverage" NAME="L1-038 覆盖结果" MODIFIED="1785840948606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PTA$L1_049.coverage" NAME="L1-049 覆盖结果" MODIFIED="1786169796125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PTA$L1_044.coverage" NAME="L1-044 覆盖结果" MODIFIED="1786074356575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_064.coverage" NAME="L1-064 覆盖结果" MODIFIED="1786501345486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_077.coverage" NAME="L1-077 覆盖结果" MODIFIED="1786624955520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_070.coverage" NAME="L1-070 覆盖结果" MODIFIED="1786605107440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_096.coverage" NAME="L1-096 覆盖结果" MODIFIED="1786634069360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_055.coverage" NAME="L1-055 覆盖结果" MODIFIED="1786436720639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_071.coverage" NAME="L1-071 覆盖结果" MODIFIED="1786606287761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_034.coverage" NAME="L1-034 覆盖结果" MODIFIED="1786330266927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_047.coverage" NAME="L1-047 覆盖结果" MODIFIED="1786075492522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_074.coverage" NAME="L1-074 覆盖结果" MODIFIED="1786606573030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_093.coverage" NAME="L1-093 覆盖结果" MODIFIED="1786626172800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_069.coverage" NAME="L1-069 覆盖结果" MODIFIED="1786603325496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_072.coverage" NAME="L1-072 覆盖结果" MODIFIED="1786940511747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_049.coverage" NAME="L1-049 覆盖结果" MODIFIED="1786169796125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_075.coverage" NAME="L1-075 覆盖结果" MODIFIED="1786622619522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_068.coverage" NAME="L1-068 覆盖结果" MODIFIED="1786514644824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_044.coverage" NAME="L1-044 覆盖结果" MODIFIED="1786074356575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_073.coverage" NAME="L1-073 覆盖结果" MODIFIED="1786606468384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_076.coverage" NAME="L1-076 覆盖结果" MODIFIED="1786624457134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PTA$L1_039.coverage" NAME="L1-039 覆盖结果" MODIFIED="1786333472033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PTA$L1_095.coverage" NAME="L1-095 覆盖结果" MODIFIED="1786787022572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
